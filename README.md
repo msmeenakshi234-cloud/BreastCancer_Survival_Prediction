@@ -83,7 +83,7 @@ The app lets you:
 1. Enter patient information (age, tumor size, etc.)
 2. Click "Predict"
 3. See if patient is high-risk or low-risk
-4. Demo video link : https://github.com/msmeenakshi234-cloud/BreastCancer_Survival_Prediction/blob/main/BR_rec.mp4
+4. Demo video link : (https://youtu.be/p5QdpSRC-MM)
 ---
 
 ## 📚 What I Learned
